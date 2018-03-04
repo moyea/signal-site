@@ -1,0 +1,20 @@
+{
+  "name": "signal-site",
+  "version": "1.0.0",
+  "description": "Signal Site HomePage",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "start": "browser-sync -s start"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "Qinghua",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.23.6"
+  }
+}
